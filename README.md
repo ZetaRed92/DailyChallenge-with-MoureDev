@@ -3,4 +3,4 @@
 
 
 ## Lista de desafíos
-* **#00** - xx/xx/24 | Easy | THE FAMOUS "FIZZ BUZZ" [[Mi Solución](https://)]
+* **#00** - 22/02/24 | Easy | THE FAMOUS "FIZZ BUZZ" [[Mi Solución](https://)]
