@@ -2,7 +2,7 @@
 #### Dificultad: Fácil | Día 01 |
 
 ## Enunciado
-![https://github.com/ZetaRed92/DailyChallenge-with-MoureDev](./Images/header.jpg)
+![(./Images/Challenge00.jpg)]
 
 
 
